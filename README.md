@@ -11,7 +11,8 @@ CSS and JavaScript, so opening `index.html` in a browser is enough.
 
 1. Pick a player count (3 to 20) and a category, then hand the phone around.
 2. Each player taps Show word, looks, and taps Next player before passing it on.
-   The word re-blurs itself every time, so nobody sees the previous card.
+   The word hides itself behind a missing-texture tile every time, so nobody
+   sees the previous card.
 3. Everyone gets the same secret word, except the imposter, who gets the
    category only.
 4. Go round the circle. Each player says one clue about the word. The imposter
